@@ -1,0 +1,30 @@
+﻿Build started 3/11/2014 10:19:59 PM.
+     1>Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\OscDump.vcxproj" on node 7 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "OscDump.dir\Debug\OscDump.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0 /Zi /nologo /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OscDump.dir\Debug\\" /Fd"OscDump.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt examples\OscDump.cpp
+         OscDump.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"OscDump.dir\Debug\OscDump.exe.embed.manifest.res" OscDump.dir\Debug\OscDump_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\Debug\OscDump.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib Debug\oscpack.lib Ws2_32.lib winmm.lib /MANIFEST /ManifestFile:"OscDump.dir\Debug\OscDump.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/Debug/OscDump.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/Debug/OscDump.lib" /MACHINE:X86 OscDump.dir\Debug\OscDump.exe.embed.manifest.res
+         OscDump.dir\Debug\OscDump.obj  /machine:X86 /debug 
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"OscDump.dir\Debug\OscDump.exe.embed.manifest" /manifest OscDump.dir\Debug\OscDump.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"OscDump.dir\Debug\OscDump.exe.embed.manifest.res" OscDump.dir\Debug\OscDump_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\Debug\OscDump.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib Debug\oscpack.lib Ws2_32.lib winmm.lib /MANIFEST /ManifestFile:"OscDump.dir\Debug\OscDump.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/Debug/OscDump.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/Debug/OscDump.lib" /MACHINE:X86 OscDump.dir\Debug\OscDump.exe.embed.manifest.res
+         OscDump.dir\Debug\OscDump.obj  /machine:X86 /debug 
+         OscDump.vcxproj -> C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\Debug\OscDump.exe
+       FinalizeBuildStatus:
+         Deleting file "OscDump.dir\Debug\OscDump.unsuccessfulbuild".
+         Touching "OscDump.dir\Debug\OscDump.lastbuildstate".
+     1>Done Building Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\OscDump.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98

@@ -1,0 +1,86 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec1355457578.vcxproj /p:Configuration=Debug /p:VisualStudioVersion=10.0
+Microsoft (R) Build Engine version 4.0.30319.18408
+[Microsoft .NET Framework, version 4.0.30319.18408]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 3/11/2014 11:52:06 AM.
+Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1355457578.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1355457578.dir\Debug\".
+  Creating directory "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1355457578.dir\Debug\cmTryCompileExec1355457578.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1355457578.dir\Debug\\" /Fd"cmTryCompileExec1355457578.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1355457578.dir\Debug\\" /Fd"cmTryCompileExec1355457578.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec1355457578.dir\Debug\cmTryCompileExec1355457578.exe.embed.manifest.res" cmTryCompileExec1355457578.dir\Debug\cmTryCompileExec1355457578_manifest.rc 
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1355457578.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec1355457578.dir\Debug\cmTryCompileExec1355457578.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1355457578.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1355457578.lib" /MACHINE:X86 cmTryCompileExec1355457578.dir\Debug\cmTryCompileExec1355457578.exe.embed.manifest.res
+  cmTryCompileExec1355457578.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt [C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1355457578.vcxproj]
+Done Building Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1355457578.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1355457578.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt [C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1355457578.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.38
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec1713088939.vcxproj /p:Configuration=Debug /p:VisualStudioVersion=10.0
+Microsoft (R) Build Engine version 4.0.30319.18408
+[Microsoft .NET Framework, version 4.0.30319.18408]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 3/11/2014 3:48:51 PM.
+Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1713088939.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1713088939.dir\Debug\".
+  Creating directory "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1713088939.dir\Debug\cmTryCompileExec1713088939.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1713088939.dir\Debug\\" /Fd"cmTryCompileExec1713088939.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1713088939.dir\Debug\\" /Fd"cmTryCompileExec1713088939.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec1713088939.dir\Debug\cmTryCompileExec1713088939.exe.embed.manifest.res" cmTryCompileExec1713088939.dir\Debug\cmTryCompileExec1713088939_manifest.rc 
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1713088939.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec1713088939.dir\Debug\cmTryCompileExec1713088939.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1713088939.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1713088939.lib" /MACHINE:X86 cmTryCompileExec1713088939.dir\Debug\cmTryCompileExec1713088939.exe.embed.manifest.res
+  cmTryCompileExec1713088939.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt [C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1713088939.vcxproj]
+Done Building Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1713088939.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1713088939.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt [C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\CMakeTmp\cmTryCompileExec1713088939.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.63
+
+

@@ -1,0 +1,21 @@
+﻿Build started 4/6/2014 4:26:37 PM.
+     1>Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\oscpack.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "oscpack.dir\Debug\oscpack.unsuccessfulbuild".
+       CustomBuild:
+         All outputs are up-to-date.
+         Building Custom Rule C:/Users/Anastasia/Downloads/oscpack_1_1_0/oscpack_1_1_0/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         oscpack.vcxproj -> C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\Debug\oscpack.lib
+       FinalizeBuildStatus:
+         Deleting file "oscpack.dir\Debug\oscpack.unsuccessfulbuild".
+         Touching "oscpack.dir\Debug\oscpack.lastbuildstate".
+     1>Done Building Project "C:\Users\Anastasia\Downloads\oscpack_1_1_0\oscpack_1_1_0\oscpack.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
